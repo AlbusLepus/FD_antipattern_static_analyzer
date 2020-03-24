@@ -1,4 +1,4 @@
-Funcional Decomposition antipattern Static Analyzer
+# Functional Decomposition antipattern Static Analyzer
 
 
 Research project developed while practicing at the ISP RAS.

@@ -1,0 +1,3 @@
+name,file_path,label,verb_in_name,template,is_inherited,constructors,total_methods,nonpublic_methods,static_methods,biggest_method_size,total_fields,nonpublic_fields,fields_class_refs,getters,setters,CG_edges,CG_no_entrance_vertexes,CG_no_out_vertexes,CG_comp_num,CG_strong_comp_num
+HandleSmth,/home/peterterry/Rooster/llvm/tools/clang/tools/extra/rooster/primary_corpus/TestProject/src/HandleSmth/HandleSmth.h,0.0,1.0,0.0,0.0,2.0,6.0,0.5,0.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0
+CalculateSmth,/home/peterterry/Rooster/llvm/tools/clang/tools/extra/rooster/primary_corpus/TestProject/src/HandleSmth/CalculateSmth/CalculateSmth.h,0.0,1.0,0.0,0.0,2.0,6.0,0.3333333333333333,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0
